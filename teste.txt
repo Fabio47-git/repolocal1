@@ -1,3 +1,4 @@
 Meu primeiro Git
 minha atualização de arquivo da aula 26
 testando atualização do clone na aula 27
+testando o git log na aula 28
